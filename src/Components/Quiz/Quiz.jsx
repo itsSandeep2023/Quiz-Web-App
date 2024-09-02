@@ -19,7 +19,7 @@ const Quiz = () => {
   let [lock, setLock] = useState(false);
   let [score, setScore] = useState(0);
   let [result, setResult] = useState(false);
-  let [questionCount, setQuestionCount] = useState(10);
+  let [questionCount, setQuestionCount] = useState(30);
   let [show, setShow] = useState(false);
 
   let correctAns = useRef(null);
