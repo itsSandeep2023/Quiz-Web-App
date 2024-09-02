@@ -1,0 +1,3 @@
+[submodule "iqorbit-scrap"]
+	path = iqorbit-scrap
+	url = git@github.com:kanaki-dev/iqorbit-scrap.git
